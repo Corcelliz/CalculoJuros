@@ -15,7 +15,8 @@ if(Dias_Atrasados > 0 )
     if(Dias_Atrasados > 15)
     {
             valor_juros = 10;
-    }else
+    }
+    else
     {
         valor_juros = 5;
     }
